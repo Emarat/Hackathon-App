@@ -1,0 +1,17 @@
+.search-box {
+    background-color: #002A3B;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.box {
+    width: 829px !important;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+#input-group-dropdown-1 {
+    width: 110px;
+    height: 41px;
+    margin-top: 27px;
+}

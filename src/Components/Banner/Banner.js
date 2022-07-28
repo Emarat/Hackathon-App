@@ -17,7 +17,7 @@ const Banner = () => {
                     AI Challenges at DPhi simulate real-world problems. It is a great place to put your AI/Data Science skills to test on diverse datasets allowing you to foster learning through competitions.
                 </p>
 
-                <Button className='btn'>Create Challenge</Button>{' '}
+                <Button className='btn'>Create Challenge</Button>
             </div>
             <div className='banner-img'>
                 <img src={picsArt} alt="banner" />

@@ -54,14 +54,14 @@
 .btn {
     width: 198px;
     height: 47px;
-    border-radius: 10px;
+    border-radius: 10px !important;
     margin-left: 52px;
-    color: #003145;
-    font-family: Poppins;
+    color: #003145 !important;
+    font-family: Poppins !important;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 600 !important;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: center;
-    background-color: #FFFFFF;
+    background-color: #FFFFFF !important;
 }

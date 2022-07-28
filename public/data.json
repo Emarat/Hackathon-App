@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/QnTsmYd/Group-1000002771.png",
+        "name": "Data Science Bootcamp - Graded Datathon",
+        "title": "Identify the class to which each butterfly belongs to",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/rvZfkg3/Group-1000002766.png",
+        "name": "Data Sprint 72 - Butterfly Identification",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/kVL8DZQ/Group-1000002773.png",
+        "name": "Engineering Graduates Employment Outcomes",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/xLVp8zm/Group-1000002767.png",
+        "name": "Data Sprint 71 - Weather Recognition",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/ZK6Zfqf/Group-1000002772.png",
+        "name": "Data Sprint 70-Airline Passenger Satisfaction",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/7NJ2cHq/Group-1000002466.png",
+        "name": "Travel Insurance Claim Prediction",
+        "start": "",
+        "end": "",
+        "description": "Butterflies are the adult flying stage of certain insects belonging to an order or group called Lepidoptera. The word Lepidoptera means scaly wings in Greek. This name perfectly suits the insects in this group because their wings are covered with thousands of tiny scales overlapping in rows. An agency of the Governmental Wildlife Conservation is planning to implement an automated system based on computer vision so that it can identify butterflies based on captured images. As a consultant for this project, you are responsible for developing an efficient model. Your Task is to build an Image Classification Model using CNN that classifies to which class of weather  each image belongs to."
+    }
+]

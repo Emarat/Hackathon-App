@@ -2,6 +2,7 @@ import Banner from './Components/Banner/Banner';
 import Header from './Components/Header/Header';
 import ParticipateReasons from './Components/ParticipateReasons/ParticipateReasons';
 import Stat from './Components/Stat/Stat';
+import Search from './Search/Search';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Banner></Banner>
       <Stat></Stat>
       <ParticipateReasons></ParticipateReasons>
+      <Search></Search>
     </div>
   );
 }
