@@ -8,11 +8,17 @@
 
 }
 
+.card-header h2 {
+    margin-bottom: 70px;
+    font-weight: bold;
+
+}
+
 span {
     color: #44924C;
 }
 
-.card {
+.cards {
     width: 542px;
     height: 276px;
     background-color: #F8F9FD;
@@ -22,7 +28,10 @@ span {
 
 .card-img {
     margin-top: 50px;
-    margin-left: 33px;
+    margin-left: -202px;
+    width: 37px;
+    height: 29px;
+
 }
 
 .card-body {
@@ -32,6 +41,7 @@ span {
 .card-body h2 {
     font-family: Poppins;
     font-size: 24px;
+    font-weight: 600;
     line-height: 50px;
     margin-top: 0px;
 }
@@ -40,7 +50,7 @@ span {
     font-family: Poppins;
     font-size: 16px;
     line-height: 24px;
-    margin-top: -20px;
+    margin-top: 0px;
     margin-right: 30px;
 }
 
