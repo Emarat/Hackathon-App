@@ -1,4 +1,5 @@
 import Banner from './Components/Banner/Banner';
+import Hackathon from './Components/Hackathon/Hackathon';
 import Header from './Components/Header/Header';
 import ParticipateReasons from './Components/ParticipateReasons/ParticipateReasons';
 import Stat from './Components/Stat/Stat';
@@ -12,6 +13,7 @@ function App() {
       <Stat></Stat>
       <ParticipateReasons></ParticipateReasons>
       <Search></Search>
+      <Hackathon></Hackathon>
     </div>
   );
 }

@@ -25,14 +25,14 @@ const Search = () => {
                 >
                     <p className='mx-3'>Status</p>
                     <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="All" /></Dropdown.Item>
-                    <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Active" /></Dropdown.Item>
-                    <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Upcoming" /></Dropdown.Item>
-                    <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Past" /></Dropdown.Item>
+                    <Dropdown.Item href="#"><Form.Check aria-label="option 2" label="Active" /></Dropdown.Item>
+                    <Dropdown.Item href="#"><Form.Check aria-label="option 3" label="Upcoming" /></Dropdown.Item>
+                    <Dropdown.Item href="#"><Form.Check aria-label="option 4" label="Past" /></Dropdown.Item>
                     <br />
                     <p className='mx-3'>Level</p>
                     <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Easy" /></Dropdown.Item>
-                    <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Medium" /></Dropdown.Item>
-                    <Dropdown.Item href="#"><Form.Check aria-label="option 1" label="Hard" /></Dropdown.Item>
+                    <Dropdown.Item href="#"><Form.Check aria-label="option 2" label="Medium" /></Dropdown.Item>
+                    <Dropdown.Item href="#"><Form.Check aria-label="option 3" label="Hard" /></Dropdown.Item>
                 </DropdownButton>
             </div>
         </div>
